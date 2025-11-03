@@ -1,10 +1,5 @@
 {
   "editor.tabSize": 2,
-  "extensions.recommendations": [
-    "dbaeumer.vscode-eslint",
-    "modelcontext.cline",
-    "esbenp.prettier-vscode"
-  ],
   "eslint.workingDirectories": [
     {
       "mode": "auto"
