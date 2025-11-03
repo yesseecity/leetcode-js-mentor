@@ -27,9 +27,12 @@
 ## Cline 的使用
 作為 LeetCode 導師，Cline 可以協助您：
 *   **獲取解題思路：** 向 Cline 提問特定 LeetCode 問題的解題思路。
+<img src="/assets/images/cline-01.jpg" />
+<img src="/assets/images/cline-02.jpg" />
 *   **程式碼解釋：** 請求 Cline 解釋程式碼範例的細節。
 *   **錯誤調試：** 當您的程式碼遇到問題時，Cline 可以協助您分析和調試錯誤。
 *   **最佳實踐建議：** 詢問關於 JavaScript 演算法實現的最佳實踐。
+
 
 **範例指令：**
 *   「請解釋 `array/two-sum.js` 中的解題思路。」
