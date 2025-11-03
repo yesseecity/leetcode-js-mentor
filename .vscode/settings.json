@@ -1,0 +1,29 @@
+{
+  "editor.tabSize": 2,
+  "extensions.recommendations": [
+    "dbaeumer.vscode-eslint",
+    "modelcontext.cline",
+    "esbenp.prettier-vscode"
+  ],
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit",
+      "source.organizeImports": "explicit",
+      "source.addMissingImports.ts": "explicit"
+    }
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit",
+      "source.organizeImports": "explicit",
+      "source.addMissingImports.ts": "explicit"
+    }
+  }
+}
