@@ -1,0 +1,36 @@
+{
+  "version": "0.2",
+  "language": "en,zh-TW",
+  "words": [
+    "leetcode",
+    "pnpm",
+    "eslint",
+    "dbaeumer",
+    "streetsidesoftware",
+    "modelcontext",
+    "cline",
+    "oderwat"
+  ],
+  "ignoreWords": [
+    "Inorder"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    ".git",
+    "package-lock.json",
+    "pnpm-lock.yaml",
+    "*.min.js",
+    "dist",
+    "build"
+  ],
+  "flagWords": [],
+  "enabledLanguageIds": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "markdown",
+    "json",
+    "jsonc"
+  ]
+}

@@ -17,11 +17,17 @@
     }
   },
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": "explicit",
       "source.organizeImports": "explicit",
       "source.addMissingImports.ts": "explicit"
-    }
+    },
+    "editor.formatOnSave": true
+  },
+  "cSpell.enabled": true,
+  "cSpell.language": "en,zh-TW",
+  "cSpell.enabledFileTypes": {
+    "javascript": true,
   }
 }
