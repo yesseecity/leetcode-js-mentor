@@ -4,5 +4,6 @@
     "modelcontext.cline",
     "esbenp.prettier-vscode",
     "streetsidesoftware.code-spell-checker",
+    "oderwat.indent-rainbow",
   ]
 }
