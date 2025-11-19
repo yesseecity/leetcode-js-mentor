@@ -5,6 +5,9 @@
       "mode": "auto"
     }
   ],
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    { "file": ".github/instructions/commit-message.instructions.md" }
+  ],
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.codeActionsOnSave": {
