@@ -24,15 +24,32 @@
 2.  **理解思路：** 每個解決方案檔案通常會包含註解，解釋解題思路和演算法步驟。
 3.  **運行測試：** 您可以自行運行提供的測試案例，以驗證解決方案的正確性。
 
-## Cline 的使用
-作為 LeetCode 導師，Cline 可以協助您：
-*   **獲取解題思路：** 向 Cline 提問特定 LeetCode 問題的解題思路。
-<img src="/assets/images/cline-01.jpg" />
-<img src="/assets/images/cline-02.jpg" />
-*   **程式碼解釋：** 請求 Cline 解釋程式碼範例的細節。
-*   **錯誤調試：** 當您的程式碼遇到問題時，Cline 可以協助您分析和調試錯誤。
-*   **最佳實踐建議：** 詢問關於 JavaScript 演算法實現的最佳實踐。
+## 使用範例
 
+<details>
+  <summary>Copilot 的使用</summary>
+  <img src="/assets/images/copilot-01.png" />
+  先切換 Agent 的模式
+  <img src="/assets/images/copilot-02.png" />
+  輸入 `/create`
+  <img src="/assets/images/copilot-03.png" />
+  之後輸入 leetcode 題目
+</details>
+
+<details>
+  <summary>Cline 的使用</summary>
+  <img src="/assets/images/cline-01.png" />
+  <img src="/assets/images/cline-02.png" />
+  輸入 `/create.md` 再加上 leetcode 題目
+</details>
+
+<details>
+  <summary>Roo 的使用</summary>
+  <img src="/assets/images/roo-01.png" />
+  <img src="/assets/images/roo-02.png" />
+  輸入 `/create` 再加上 leetcode 題目
+</details>
+<br />
 
 **範例指令：**
 *   「請解釋 `array/two-sum.js` 中的解題思路。」
